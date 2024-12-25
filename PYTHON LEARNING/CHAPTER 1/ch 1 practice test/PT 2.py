@@ -1,0 +1,1 @@
+print (" table of 5 through repl in terminal")
